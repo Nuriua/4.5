@@ -1,0 +1,14 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{   
+    float a, b, x;
+    cout<<"Введите a и b";
+    cin>>a;
+    cin>>b;
+    x=-b/a;
+    cout<<x;
+    return 0;
+}
